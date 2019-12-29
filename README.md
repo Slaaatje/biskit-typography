@@ -1,4 +1,4 @@
-# 🍪 Biskit Typography Kit
+# 🅰️ Biskit Typography Kit
 
 The Typography Icon Kit is a living, breathing document that contains all of our icon assets. This document evolves and changes as we collaborate with partners and service teams. All of the assets that live in the Typography Kit can also be found on our Biskit Documentation website.
 
